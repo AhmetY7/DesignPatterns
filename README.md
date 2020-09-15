@@ -15,7 +15,7 @@
   <li>Structural Patterns
     <ul>
       <li>:hourglass_flowing_sand:Adapter</li>
-      <li:hourglass_flowing_sand:>Bridge</li>
+      <li>:hourglass_flowing_sand:Bridge</li>
       <li>:hourglass_flowing_sand:Composite </li>
       <li>:hourglass_flowing_sand:Decorator </li>
       <li>:hourglass_flowing_sand:Facade</li>
