@@ -1,7 +1,7 @@
 package factories;
 
-import buttons.Button;
-import buttons.WindowsButton;
+import factoryex2.buttons.Button;
+import factoryex2.buttons.WindowsButton;
 import checkboxes.Checkbox;
 import checkboxes.WindowsCheckbox;
 

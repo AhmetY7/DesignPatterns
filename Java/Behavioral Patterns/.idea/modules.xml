@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Behavioral Patterns.iml" filepath="$PROJECT_DIR$/Behavioral Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Behavioral Patterns.iml" filepath="$PROJECT_DIR$/.idea/Behavioral Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Command Pattern/Command Pattern.iml" filepath="$PROJECT_DIR$/Command Pattern/Command Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Iterator Pattern/Iterator Pattern.iml" filepath="$PROJECT_DIR$/Iterator Pattern/Iterator Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/State Pattern/State Pattern.iml" filepath="$PROJECT_DIR$/State Pattern/State Pattern.iml" />
     </modules>
   </component>
 </project>

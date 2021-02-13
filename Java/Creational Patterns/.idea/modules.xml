@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AbstractFactory/AbstractFactory.iml" filepath="$PROJECT_DIR$/AbstractFactory/AbstractFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BuilderPattern/BuilderPattern.iml" filepath="$PROJECT_DIR$/BuilderPattern/BuilderPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Creational Patterns.iml" filepath="$PROJECT_DIR$/.idea/Creational Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactoryPattern/FactoryPattern.iml" filepath="$PROJECT_DIR$/FactoryPattern/FactoryPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrototypePattern/PrototypePattern.iml" filepath="$PROJECT_DIR$/PrototypePattern/PrototypePattern.iml" />
+    </modules>
+  </component>
+</project>

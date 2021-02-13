@@ -1,6 +1,6 @@
 package app;
 
-import buttons.Button;
+import factoryex2.buttons.Button;
 import checkboxes.Checkbox;
 import factories.GUIFactory;
 

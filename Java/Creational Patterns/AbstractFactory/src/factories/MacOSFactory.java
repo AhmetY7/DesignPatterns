@@ -1,7 +1,7 @@
 package factories;
 
-import buttons.Button;
-import buttons.MacOSButton;
+import factoryex2.buttons.Button;
+import factoryex2.buttons.MacOSButton;
 import checkboxes.Checkbox;
 import checkboxes.MacOSCheckbox;
 

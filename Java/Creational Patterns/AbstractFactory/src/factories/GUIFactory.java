@@ -1,6 +1,6 @@
 package factories;
 
-import buttons.Button;
+import factoryex2.buttons.Button;
 import checkboxes.Checkbox;
 
 public interface GUIFactory {

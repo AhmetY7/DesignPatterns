@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a2e98b7-cdb6-4d3a-85ee-0a24cfb9d170" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Behavioral Patterns.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Iterator Pattern/Behavioral Patterns.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Iterator Pattern/Iterator Pattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/State Pattern/State Pattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/State Pattern/src/stateex1/Kullanici.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/State Pattern/src/stateex1/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/State Pattern/src/stateex1/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/State Pattern/src/stateex1/Tanimsiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/State Pattern/src/stateex1/Yonetici.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/State Pattern/src/stateex2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/State Pattern/src/stateex2/states/LockedState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/State Pattern/src/stateex2/states/PlayingState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/State Pattern/src/stateex2/states/ReadyState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/State Pattern/src/stateex2/states/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/State Pattern/src/stateex2/ui/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/State Pattern/src/stateex2/ui/UI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Creational Patterns/.idea/Creational Patterns.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Creational Patterns/BuilderPattern/BuilderPattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Creational Patterns/FactoryPattern/src/factoryex1/Araba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Creational Patterns/FactoryPattern/src/factoryex1/ArabaFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Creational Patterns/FactoryPattern/src/factoryex1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Creational Patterns/FactoryPattern/src/factoryex1/Mercedes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Creational Patterns/FactoryPattern/src/factoryex1/MercedesFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Creational Patterns/FactoryPattern/src/factoryex1/Sahin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Creational Patterns/FactoryPattern/src/factoryex1/SahinFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Behavioral Patterns.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Command Pattern/Command Pattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Command Pattern/Command Pattern.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Behavioral Patterns/com/company/Agac.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Behavioral Patterns/com/company/AgacIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Behavioral Patterns/com/company/Aggregate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Behavioral Patterns/com/company/Dizi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Behavioral Patterns/com/company/DiziIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Behavioral Patterns/com/company/Iterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Behavioral Patterns/com/company/Listeleme.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Behavioral Patterns/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Behavioral Patterns/example2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Behavioral Patterns/example2/iterators/FaceIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Behavioral Patterns/example2/iterators/LinkedInIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Behavioral Patterns/example2/iterators/ProfileIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Behavioral Patterns/example2/profile/Profile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Behavioral Patterns/example2/social_networks/Face.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Behavioral Patterns/example2/social_networks/LinkedIn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Behavioral Patterns/example2/social_networks/SocialNetwork.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Behavioral Patterns/example2/spammer/SocialSpammer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iteratorex1/Agac.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iteratorex1/AgacIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iteratorex1/Aggregate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iteratorex1/Dizi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iteratorex1/DiziIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iteratorex1/Iterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iteratorex1/Listeleme.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iteratorex1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iteratorex2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iteratorex2/iterators/FaceIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iteratorex2/iterators/LinkedInIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iteratorex2/iterators/ProfileIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iteratorex2/profile/Profile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iteratorex2/social_networks/Face.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iteratorex2/social_networks/LinkedIn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iteratorex2/social_networks/SocialNetwork.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iteratorex2/spammer/SocialSpammer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Creational Patterns/AbstractFactory/src/app/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Creational Patterns/AbstractFactory/src/app/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Creational Patterns/AbstractFactory/src/buttons/Button.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Creational Patterns/AbstractFactory/src/factoryex2/buttons/Button.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Creational Patterns/AbstractFactory/src/buttons/MacOSButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Creational Patterns/AbstractFactory/src/factoryex2/buttons/MacOSButton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Creational Patterns/AbstractFactory/src/buttons/WindowsButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Creational Patterns/AbstractFactory/src/factoryex2/buttons/WindowsButton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Creational Patterns/AbstractFactory/src/factories/GUIFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Creational Patterns/AbstractFactory/src/factories/GUIFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Creational Patterns/AbstractFactory/src/factories/MacOSFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Creational Patterns/AbstractFactory/src/factories/MacOSFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Creational Patterns/AbstractFactory/src/factories/WindowsFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Creational Patterns/AbstractFactory/src/factories/WindowsFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Creational Patterns/FactoryPattern/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Creational Patterns/FactoryPattern/src/factoryex2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Creational Patterns/FactoryPattern/src/buttons/Button.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Creational Patterns/FactoryPattern/src/factoryex2/buttons/Button.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Creational Patterns/FactoryPattern/src/buttons/HtmlButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Creational Patterns/FactoryPattern/src/factoryex2/buttons/HtmlButton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Creational Patterns/FactoryPattern/src/buttons/WindowsButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Creational Patterns/FactoryPattern/src/factoryex2/buttons/WindowsButton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Creational Patterns/FactoryPattern/src/factory/Dialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Creational Patterns/FactoryPattern/src/factoryex2/factory/Dialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Creational Patterns/FactoryPattern/src/factory/HtmlDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Creational Patterns/FactoryPattern/src/factoryex2/factory/HtmlDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Creational Patterns/FactoryPattern/src/factory/WindowsDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Creational Patterns/FactoryPattern/src/factoryex2/factory/WindowsDialog.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="JupyterTrust" id="f9f6a30a-320e-4637-9e3e-277571af9d05" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\ahmet\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\202.6948.69\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1oQimFqEYfcwo8Ai6UpuUfOE3Zw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stateex1.Main" />
+      <module name="State Pattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stateex1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stateex2.Main" />
+      <module name="State Pattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stateex2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a2e98b7-cdb6-4d3a-85ee-0a24cfb9d170" name="Default Changelist" comment="" />
+      <created>1613225371918</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613225371918</updated>
+      <workItem from="1613225372980" duration="2906000" />
+      <workItem from="1613228316867" duration="223000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="272" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1613227200096">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="272" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1613227200096" />
+    <state width="888" height="279" key="GridCell.Tab.0.bottom" timestamp="1613228541048">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="888" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1613228541048" />
+    <state width="888" height="279" key="GridCell.Tab.0.center" timestamp="1613228541048">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="888" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1613228541048" />
+    <state width="888" height="279" key="GridCell.Tab.0.left" timestamp="1613228541048">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="888" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1613228541048" />
+    <state width="888" height="279" key="GridCell.Tab.0.right" timestamp="1613228541048">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="888" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613228541048" />
+    <state x="0" y="97" key="SettingsEditor" timestamp="1613227187672">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="97" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1613227187672" />
+  </component>
+</project>
