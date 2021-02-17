@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/Creational Patterns.iml" filepath="$PROJECT_DIR$/.idea/Creational Patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryPattern/FactoryPattern.iml" filepath="$PROJECT_DIR$/FactoryPattern/FactoryPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrototypePattern/PrototypePattern.iml" filepath="$PROJECT_DIR$/PrototypePattern/PrototypePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SingletonPattern/SingletonPattern.iml" filepath="$PROJECT_DIR$/SingletonPattern/SingletonPattern.iml" />
     </modules>
   </component>
 </project>
