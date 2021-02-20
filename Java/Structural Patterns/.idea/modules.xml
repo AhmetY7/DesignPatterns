@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Adapter Pattern/Adapter Pattern.iml" filepath="$PROJECT_DIR$/Adapter Pattern/Adapter Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Decorator Pattern/Decorator Pattern.iml" filepath="$PROJECT_DIR$/Decorator Pattern/Decorator Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Facade Pattern/Facade Pattern.iml" filepath="$PROJECT_DIR$/Facade Pattern/Facade Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Proxy Pattern/Proxy Pattern.iml" filepath="$PROJECT_DIR$/Proxy Pattern/Proxy Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Structural Patterns.iml" filepath="$PROJECT_DIR$/Structural Patterns.iml" />
     </modules>

@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a2e98b7-cdb6-4d3a-85ee-0a24cfb9d170" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Mediator Pattern/Mediator Pattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mediator Pattern/src/mediator_ex1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mediator Pattern/src/mediator_ex1/components/AddButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mediator Pattern/src/mediator_ex1/components/Component.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mediator Pattern/src/mediator_ex1/components/DeleteButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mediator Pattern/src/mediator_ex1/components/Filter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mediator Pattern/src/mediator_ex1/components/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mediator Pattern/src/mediator_ex1/components/SaveButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mediator Pattern/src/mediator_ex1/components/TextBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mediator Pattern/src/mediator_ex1/components/Title.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mediator Pattern/src/mediator_ex1/mediator/Editor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mediator Pattern/src/mediator_ex1/mediator/Mediator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mediator Pattern/src/mediator_ex1/mediator/Note.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6a2e98b7-cdb6-4d3a-85ee-0a24cfb9d170" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +40,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Structural Patterns" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -203,6 +187,7 @@
       <workItem from="1613759575678" duration="8000" />
       <workItem from="1613814028014" duration="17000" />
       <workItem from="1613814079716" duration="21000" />
+      <workItem from="1613814141042" duration="6000" />
     </task>
     <servers />
   </component>
@@ -214,10 +199,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="272" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1613741964007" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1613814044259">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1613814146391">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1613814044259" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1613814146391" />
     <state width="914" height="276" key="GridCell.Tab.0.bottom" timestamp="1613749752711">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
