@@ -1,0 +1,4 @@
+C:\Users\ahmet\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\202.6948.80\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "C:\Users\ahmet\Desktop\DesignPatterns\C++\Creational Patterns\Factory Method"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/ahmet/Desktop/DesignPatterns/C++/Creational Patterns/Factory Method/cmake-build-debug
